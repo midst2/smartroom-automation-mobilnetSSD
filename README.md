@@ -1,1 +1,1 @@
-basics IOT web dashboard for school project
+mobilenetSSD for realtime detection along with Dashboard using pure html/css
