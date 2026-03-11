@@ -7,4 +7,4 @@ This project uses
 
 ## 🎥 Demo
 
-[![Smart Room Automation Demo](https://img.youtube.com/vi/An3OiQ9pB0M/0.jpg)](https://youtu.be/An3OiQ9pB0M)
+<video src="demo.mp4" controls width="700"></video>
