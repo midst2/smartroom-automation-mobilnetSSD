@@ -7,4 +7,4 @@ This project uses
 
 ## 🎥 Demo
 
-<video src="[demo.mp4](https://github.com/midst2/smartroom-automation-mobilnetSSD/blob/main/202603120015%20(1).mp4)" controls width="700"></video>
+<video src="https://raw.githubusercontent.com/midst2/smartroom-automation-mobilnetSSD/main/202603120015%20(1).mp4" controls width="700"></video>
