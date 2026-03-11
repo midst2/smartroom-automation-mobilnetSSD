@@ -9,6 +9,6 @@ This project uses
 
 
 <video width="320" height="240" autoplay muted>
-  <source src=https://github.com/user-attachments/assets/6a6ceb9f-394c-49a7-b451-ceddfd44db55 type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/6a6ceb9f-394c-49a7-b451-ceddfd44db55" type="video/mp4">
   Your browser does not support the video tag.
 </video>
