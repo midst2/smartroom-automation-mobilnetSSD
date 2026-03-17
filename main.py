@@ -11,14 +11,14 @@ from tuya_connector import TuyaOpenAPI, TUYA_LOGGER
 
 # ALL THIS KEY HAVE NO LONGER AVAILABLE.
 config = {
-    "apiKey": "AIzaSyC9t5ppjAWpulEhz8E4S6pUD7ceNhLBQ_g",
-    "authDomain": "webapp-b33f6.firebaseapp.com",
-    "databaseURL": "https://webapp-b33f6-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "projectId": "webapp-b33f6",
-    "storageBucket": "webapp-b33f6.appspot.com",
-    "messagingSenderId": "917044709858",
-    "appId": "1:917044709858:web:2067945324507074e811bb",
-    "measurementId": "G-P458HC4P1W",
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "",
+    "measurementId": "",
 }
 # ดึงฟีเจอร์ Realtime Database จาก Firebase
 firebase = pyrebase.initialize_app(config)
@@ -36,10 +36,10 @@ for i in list_c.split(","):
 for j in time_c.split(","):
     time_list.append(j)
 # ยืนยันตัวตน TuyaAPI เพื่อดึง API ควบคุมการทำงานของ Smart Switch
-ACCESS_ID = "xhyswgra7ppfa85ksyxe"
-ACCESS_KEY = "0abb93025b15443e98d1bc8ca7fa3d6d"
-API_ENDPOINT = "https://openapi.tuyaus.com"
-DEVICE_ID = "eb61683cc6099a9009cxp8"
+ACCESS_ID = ""
+ACCESS_KEY = ""
+API_ENDPOINT = ""
+DEVICE_ID = ""
 # ดึง API ของ Tuya
 openapi = TuyaOpenAPI(API_ENDPOINT, ACCESS_ID, ACCESS_KEY)
 openapi.connect()
